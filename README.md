@@ -1,6 +1,6 @@
 # Building the Grocerease App
 
-This data analysis was created as a part of a project Xiaohan Li and Artemis Lopez worked on while taking the course **COGS 127: Data-Driven UX/Product Design**.
+This data analysis was created as a part of a project Xiaohan Li and I (Artemis Lopez) worked on while taking the course **COGS 127: Data-Driven UX/Product Design**.
 
 It reflects the knowledge gleaned from the data we gathered, all related to designing a solution to the growing food waste problem in the United States.
 With the survey we designed to facilitate data collection, we examined the following behaviors:
